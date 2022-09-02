@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">latihanChapter3</string>
+    <string name="hello">Hi You!</string>
+    <string name="explore">Click to Explore</string>
+    <string name="bttn1">Data Manual</string>
+    <string name="bttn2">Bundle</string>
+    <string name="bttn3">Serializable</string>
+    <string name="bttn4">Parcelable</string>
+</resources>
